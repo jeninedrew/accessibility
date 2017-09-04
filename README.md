@@ -10,6 +10,9 @@ http://www.chromevox.com/ (screen reader)
 
 http://foundation.zurb.com/sites/docs/accessibility.html (Foundation)
 
+http://jensimmons.com/presentation/progressing-our-layouts (How to write progresively enhanced CSS)
+
+
 Jump arount the site using the keyboard (tab, shift+tab, enter)
 
 ## Semantic HTML / Tags / Labels

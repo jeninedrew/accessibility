@@ -12,6 +12,8 @@ http://foundation.zurb.com/sites/docs/accessibility.html (Foundation)
 
 http://jensimmons.com/presentation/progressing-our-layouts (How to write progresively enhanced CSS)
 
+https://www.hhs.gov/web/section-508/making-files-accessible/checklist/html/index.html (508)
+
 
 Jump arount the site using the keyboard (tab, shift+tab, enter)
 
